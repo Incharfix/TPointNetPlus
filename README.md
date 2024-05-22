@@ -1,4 +1,4 @@
-#Paper: A Cotton Organ Segmentation Method with Phenotypic Measurements from a Point Cloud Using a Transformer
+Paper: A Cotton Organ Segmentation Method with Phenotypic Measurements from a Point Cloud Using a Transformer
 
 We created a dataset of three categories of cotton point cloud plants, including leaves, bolls, and branches. Each plant has a total of 40,960 dots.
 The path of the data set is in./mydata
